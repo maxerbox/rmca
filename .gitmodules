@@ -1,0 +1,3 @@
+[submodule "rmca-manager"]
+	path = rmca-manager
+	url = https://github.com/maxerbox/rmca-manager
