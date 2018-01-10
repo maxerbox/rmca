@@ -14,6 +14,7 @@
         - [RMCA Manager](#rmca-manager)
         - [Code Arduino](#code-arduino)
         - [dossier mini projet_v1.docx](#dossier-mini-projetv1docx)
+        - [SLIDES_POWERPOINT_ Mini_Projet_sin_presentation.pptx](#slidespowerpoint-miniprojetsinpresentationpptx)
 
 ## Introduction
 
@@ -65,3 +66,7 @@ Tout le code Arduino (partie télécommande et robot) est présent dans ce dossi
 ### dossier mini projet_v1.docx
 
 Dossier rendu au proffesseur
+
+### SLIDES_POWERPOINT_ Mini_Projet_sin_presentation.pptx
+
+Présentation du projet POWERPOINT
